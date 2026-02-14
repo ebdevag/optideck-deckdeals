@@ -1,0 +1,17 @@
+{
+  "name": "Deckdeals",
+  "author": "Optideck",
+  "flags": [],
+  "publish": {
+    "tags": [
+      "IsThereAnyDeal",
+      "PriceHistory",
+      "Deals"
+    ],
+    "description": "Price history and deal tracking directly on Steam Deck store pages.",
+    "resourceLink": "",
+    "image": ""
+  },
+  "version": "1.1.1",
+  "main": "main.py"
+}
