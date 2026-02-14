@@ -7,7 +7,7 @@
 
 **Track prices, spot deals, and save money directly from the Steam Store.**
 
-  <a href="https://github.com/draftdev-sd/optideck-deckdeals/releases/download/v1.1.0-beta/optideck-deckdeals-v1.1.0-beta.zip">
+  <a href="https://github.com/ebdevag/optideck-deckdeals/releases/download/v1.1.0-beta/optideck-deckdeals-v1.1.0-beta.zip">
     <img src="https://img.shields.io/badge/Download-.zip_(BETA)-blue?style=for-the-badge&logo=github&logoColor=white" alt="Download .zip" />
   </a>
 </p>
