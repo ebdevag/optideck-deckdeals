@@ -1,5 +1,6 @@
 import { en } from "./en";
 import { ru } from "./ru";
+import { uk } from "./uk";
 
 // Currently only English is supported.
 // To add a new language:
@@ -9,7 +10,7 @@ import { ru } from "./ru";
 //   4. Wire up a language setting in Settings.ts + DeckyMenuOption.tsx
 
 const locales: Record<string, Record<string, string>> = {
-    en, ru,
+    en, ru, uk,
 };
 
 let currentLocale = "en";
